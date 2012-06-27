@@ -1,0 +1,6 @@
+[
+	{"caption": "Clipboard Stack: Push clipboard content on stack", "command": "clipboard_stack_push"},
+	{"caption": "Clipboard Stack: Pop content from stack to clipboard", "command": "clipboard_stack_pop"},
+	{"caption": "Clipboard Stack: Select an element from the stack", "command": "clipboard_stack_select"},
+	{"caption": "Clipboard Stack: Clear Stack", "command": "clipboard_stack_clear"}
+]
