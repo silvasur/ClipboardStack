@@ -11,7 +11,7 @@ Install
 Clone this repository into your *Packages* directory:
 
 	$ cd ~/.config/sublime-text-2/Packages/
-	$ git clone https://github.com/kch42/ClipboardStack.git
+	$ git clone https://github.com/silvasur/ClipboardStack.git
 
 Commands
 --------
